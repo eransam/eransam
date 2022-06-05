@@ -1,13 +1,13 @@
 <body>
 
-### Hi, I am Eran 👋,
+### Hi, I am Eran 👋
 
 ---
 
 🔭 I am a web developer with high ambitions and passion for the
 profession.
 
-📫 \*\*How to reach me:<br/>
+How to reach me: 📫<br/>
 <a href="mailto:eransam21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -17,7 +17,7 @@ profession.
 <br/>
 Phone: +972-524258058.
 
-Skills:
+<b>Skills:</b>
 React | Redux | ES5+ | Javascript | HTML5 | CSS3 | SCSS | Regex | Docker | jQuery | MUI | Data Structures | Algorithms | JWT | Css | SQL | No-Sql |
 Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secure Coding
 
@@ -51,19 +51,9 @@ Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
 
-### My Github Stats
-
 ---
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackamsterdam&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/JackAmsterdam)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAmsterdam&hide=Ruby,Shell&langs_count=10&layout=compact&theme=vue-dark)](https://github.com/JackAmsterdam)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JackAmsterdam&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Jack's streak" /></p>
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamsterdam&repo=Followers-React-Node-mysql-Project)](https://github.com/jackamsterdam/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Vacation-Web-Project)](https://github.com/jackamsterdam/github-readme-stats)
 
 ---
 
