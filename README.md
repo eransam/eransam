@@ -53,7 +53,41 @@ Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secu
 
 ---
 
+### React-TypeScript Project:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Vacation-Web-Project)](https://github.com/eransam/Vacation-Web-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=FindUrl-Project)](https://github.com/eransam/FindUrl-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Company-Meetings-Project)](https://github.com/eransam/Company-Meetings-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Gift-Shop-Project)](https://github.com/eransam/Gift-Shop-Project)
+
+---
+
+### Angular-TypeScript Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Angular-Shoes-Store-New-Project)](https://github.com/eransam/Angular-Shoes-Store-New-Project)
+
+---
+
+### NPM Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Create-npm-packege)](https://github.com/eransam/Create-npm-packege)
+
+---
+
+### JavaScript Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Trivia-Project)](https://github.com/eransam/Trivia-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Bitcoins-Project)](https://github.com/eransam/Bitcoins-Project)
+
+---
+
+### HTML Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Notes-Project)](https://github.com/eransam/Notes-Project)
 
 ---
 
