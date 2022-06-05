@@ -53,7 +53,7 @@ Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secu
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Vacation-Web-Project)](https://github.com/jackamsterdam/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eransam&repo=Vacation-Web-Project)](https://github.com/eransam/Vacation-Web-Project)
 
 ---
 
