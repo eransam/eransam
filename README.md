@@ -1,18 +1,20 @@
 <body>
 
-### Hi, I am Jack 👋, <a href="www.linkedin.com/in/eran-samimian-6b897a233/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  </a>
+### Hi, I am Eran 👋,
 
 ---
 
 🔭 I am a web developer with high ambitions and passion for the
 profession.
 
-📫 \*\*How to reach me:
+📫 \*\*How to reach me:<br/>
 <a href="mailto:eransam21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<br/>
+<a href="www.linkedin.com/in/eran-samimian-6b897a233/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
 Phone: +972-524258058.
 
 Skills:
@@ -48,7 +50,6 @@ Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secu
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
-
 
 ### My Github Stats
 
