@@ -91,6 +91,12 @@ Bootstrap | Jquery | Ajax | Socket.IO | Node.js | MongoDB | ES6 | Angular | Secu
 
 ---
 
+### For more repositories:
+
+<a href="https://github.com/eransam?tab=repositories" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamsterdam)](https://github.com/jackamsterdam/github-readme-stats)
 -->
